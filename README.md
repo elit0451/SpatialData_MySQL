@@ -2,6 +2,8 @@
 
 The following exercises are based on data taken from http://wfs-kbhkort.kk.dk 🇩🇰. 
 
+For loading <img align="center" height="20" src="https://thumbs.gfycat.com/CelebratedComplexDipper-max-1mb.gif"> the sample data **execute** the commands in [dump.sql](./dump.sql).
+
 <br/>
 
 _The Copenhagen data is in Danish, so here are references to the ones we used_ <img src="https://cdn4.iconfinder.com/data/icons/file-types-5/96/document_file_extension_format_type_csv-512.png" height="20" align="center">:  
